@@ -11,3 +11,12 @@ count word,alphabet,
 replace,
 concatenation of 2 words(with f),
 dir.
+
+Day_2:
+
+type,
+arithmetic operation,
+increment,
+inbuilt functions(abs and round),
+comaparison,
+casting
