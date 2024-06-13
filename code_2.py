@@ -1,0 +1,36 @@
+#type
+a=3
+print(type(a))
+#arithmetic operation
+print(3+4)
+print(3-4)
+print(3*4)
+print(3/4)
+print(3//4)
+print(3**4)
+#increment
+b=1
+b=b+1
+print(b)
+c=1
+c+=1
+print(c)
+#inbuilt functions abs(absoulute) and round
+print(abs(-11))
+print(round(0.6))
+print(round(6.78,1))
+#comaprison
+d=2
+e=3
+print(d==e)
+print(d!=e)
+print(d<=e)
+print(d>=e)
+print(d>e)
+print(d<e)
+#typecasting
+a='100'
+b='200'
+a=int(a)
+b=int(b)
+print(a+b)
